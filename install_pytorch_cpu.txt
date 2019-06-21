@@ -1,0 +1,10 @@
+## Install pytorch cpu and fastai for sgd notebook
+
+1. Install anaconda: https://www.anaconda.com/distribution/
+2. from start menu type "anaconda", search should show "Anaconda Navigator", click on it
+3. from navigator choose "Jupyter Notebook"
+4. in notebook choose "New">"Terminal"
+5. type (or copy paste,paste is done by shift+ctrl+V): conda install pytorch-cpu torchvision-cpu -c pytorch
+6. pytroch cpu should be installed
+7. install fastai by pasting/typing into terminal:  pip install fastai
+8. After installation fastai package should work
