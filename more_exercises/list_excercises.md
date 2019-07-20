@@ -7,6 +7,7 @@
 4. Write a Python program to get the smallest number from a list.
 
 5. Write a Python program to remove duplicates from a list.
+Example: original list: ['Tiit', 'Teet', 'Tiit'], result list: ['Tiit', 'Teet']
 
 6. Write a Python program to check a list is empty or not. 
 

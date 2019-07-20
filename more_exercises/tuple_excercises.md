@@ -5,6 +5,10 @@
 3. Write a Python program to create a tuple with numbers and print one item.
 
 4. Write a Python program to unpack a tuple in several variables. 
+Example: initial tuple: ('Vallo', 'Tiit', 'Teet'), result variables: 
+valjakutse='Vallo'
+arikaksik1='Tiit'
+arikaksik2='Teet'
 
 5. Write a Python program to add an item in a tuple.
 Example: initial tuple: ('Teet', 'Kambja')
@@ -13,12 +17,14 @@ result: ('Teet', 'Kambja', 'Tiit')
 6. Write a Python program to convert a tuple to a string.
 
 7. Write a Python program to get the 4th element and 4th element from last of a tuple.
+Example: tuple: ('Kambja', 'Vallo') check if 'Teet' is in tuple (where is Teet if not in tuple?)
 
 8. Write a Python program to check whether an element exists within a tuple.
 
 9. Write a Python program to convert a list to a tuple. 
 
 10. Write a Python program to remove an item from a tuple.
+Example: initial tuple ('Kambja', 'Teet', 'Tiit'), result tuple: ('Kambja', 'Teet') (where is Tiit now?)
 
 11. Write a Python program to slice a tuple. 
 
@@ -27,6 +33,7 @@ result: ('Teet', 'Kambja', 'Tiit')
 13. Write a Python program to find the length of a tuple. 
 
 14. Write a Python program to convert a tuple to a dictionary. 
+Example: initial tuple ('Tiit', 'sugumürsk'), result dict: {'Tiit':'sugumürsk'}
 
 15. Write a Python program to reverse a tuple.
 

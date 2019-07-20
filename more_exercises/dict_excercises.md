@@ -1,7 +1,7 @@
 1. Write a Python script to add a key to a dictionary.
 
-Sample Dictionary : {0: 10, 1: 20}
-Expected Result : {0: 10, 1: 20, 2: 30}
+Sample Dictionary : {'Tsementer': 10, 'siider': 20}
+Expected Result : {'Tsementer': 10, 'siider': 20, 'Vallo': 30}
 
 2. Write a Python script to concatenate following dictionaries to create a new one.
 
@@ -12,6 +12,7 @@ dic3={5:50,6:60}
 Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 
 3. Write a Python script to check if a given key already exists in a dictionary. 
+Example: dict: {'valjakutse': 'kiire', 'meeskond':'amarillo'} check if key meeskond is in dict
 
 4. Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x). 
 Sample Dictionary ( n = 5) : 
@@ -22,6 +23,8 @@ Sample Dictionary
 {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64, 9: 81, 10: 100, 11: 121, 12: 144, 13: 169, 14: 196, 15: 225}
 
 6. Write a Python script to merge two Python dictionaries. 
+Example: dict1 {'kakskik1':'Tiit'}, dict2 {'kakskik2':'Teet'}
+result dict: {'kakskik1':'Tiit', 'kakskik2':'Teet'}
 
 7. Write a Python program to sum all the items in a dictionary. 
 
