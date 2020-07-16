@@ -23,11 +23,11 @@ jarjend=[
     [1, 3, 6]
 ]
 
-## prindi kõikide elementide korrutis
+### prindi kõikide elementide korrutis
 
-## elementide korrutis mis on suuremad kui 3
+### elementide korrutis mis on suuremad kui 3
 
-## prindi välja veergude kaupa andmed (esimene veerg on [1,3,1])
+### prindi välja veergude kaupa andmed (esimene veerg on [1,3,1])
 
 jarjend=[
     [3, "a", 4.0, 2],
@@ -35,10 +35,10 @@ jarjend=[
     ["d", 5, 7.0, 4]
 ]
 
-## prindi välja elemendid, mis on int tüüpi
+### prindi välja elemendid, mis on int tüüpi
 
-## prindi välja eleendid mis on diagonaalil (3, 9.0, 7.0)
+### prindi välja eleendid mis on diagonaalil (3, 9.0, 7.0)
 
-## prindi välja elemendid, mis on diagonaalist 1 võrra paremal ("a", 3, 4)
+### prindi välja elemendid, mis on diagonaalist 1 võrra paremal ("a", 3, 4)
 
-## prindi välja indeksid, kohtadets kus asuvad str tüüpi elemendid
+### prindi välja indeksid, kohtadets kus asuvad str tüüpi elemendid
