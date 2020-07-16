@@ -22,8 +22,11 @@ jarjend=[
     [3, 4, 6],
     [1, 3, 6]
 ]
+
 #prindi kõikide elementide korrutis
+
 #elementide korrutis mis on suuremad kui 3
+
 #prindi välja veergude kaupa andmed (esimene veerg on [1,3,1])
 
 jarjend=[
@@ -33,6 +36,9 @@ jarjend=[
 ]
 
 #prindi välja elemendid, mis on int tüüpi
+
 #prindi välja eleendid mis on diagonaalil (3, 9.0, 7.0)
+
 #prindi välja elemendid, mis on diagonaalist 1 võrra paremal ("a", 3, 4)
+
 #prindi välja indeksid, kohtadets kus asuvad str tüüpi elemendid
