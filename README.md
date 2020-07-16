@@ -29,6 +29,8 @@ jarjend=[
 
 ### prindi välja veergude kaupa andmed (esimene veerg on [1,3,1])
 
+
+
 jarjend=[
     [3, "a", 4.0, 2],
     ["c", 9.0, 3, 1],
